@@ -25,7 +25,7 @@ SECRET_KEY = '%=inraaaq-)0fow$0*m$5_)p14=80-tn=x7d1lcaq9zy(#ghm-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pabloget.pythonanywhere.com']
 
 
 # Application definition
